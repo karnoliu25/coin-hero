@@ -25,6 +25,7 @@
 
 ## 项目结构
 
+```text
 src/
 ├── assets/ # 静态资源
 ├── components/ # 公共组件
@@ -39,6 +40,7 @@ src/
 ├── App.vue # 根组件
 ├── main.js # 应用入口
 └── router/ # 路由配置
+```
 
 ## 安装与运行
 
